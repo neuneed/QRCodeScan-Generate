@@ -1,0 +1,92 @@
+/* 
+  Localizable.strings
+  QRCode
+
+  Created by Lee on 2016/11/5.
+  Copyright © 2016年 neuneed. All rights reserved.
+*/
+
+
+//Onboarding
+"Welcome To:" = "欢迎来到：";
+"QRCode Fun App" = "多彩二维码";
+"Frist Of All:" = "首先：";
+"Find a QRCode image you want to know then use the camera scanner." = "用扫描仪对准你想了解的二维码。";
+"Then You Can:" = "然后你可以";
+"Edit,Open,Copy text or Generate a brand-new coloful code!"="编辑文字、打开、复制或者重新生成一个全新的漂亮专属的二维码！";
+
+
+//Setting
+"Setting" = "设置";
+"General" = "通用";
+"More" = "更多";
+"About" = "关于";
+"BrowserInApp" = "内置浏览器打开";
+"CheakSafe" = "检测链接安全（下个版本）";
+"ChoiceColor" = "自定义颜色（下个版本）";
+"ClearHistory" = "清除历史记录";
+"ContactUs" = "联系我们";
+"RateUs" = "给我们投票";
+"Version" = "版本";
+"OpenSource" = "开源库";
+"Back" = "返回";
+"Sure" = "确认";
+"Could Not Send Email" = "不支持邮件发送";
+"Your device could not send e-mail.  Please check e-mail configuration and try again." = "哎呀，你的设备无法发送邮件，请确认本机邮箱设置后重试.";
+"Are you sure?" = "你确定吗?";
+"Will clear all your local history." = "删除所有的历史记录.";
+"Feedback" = "产品反馈";
+"Skip" = "跳过";
+
+//Setting more
+"💡Thanks To💡" = "💡感谢以下💡";
+"Something wrong" = "出错啦，请重试！";
+"Clear History Success" = "成功清除历史记录!";
+
+//Scan
+
+"Scan" = "扫描";
+"Camera unavailable" = "摄像头不可用";
+"Code infomation" = "二维码信息";
+"Unrecognized" = "识别二维码信息失败";
+"The flash is not available" = "闪光灯无法使用";
+"Code message" = "二维码信息";
+"Copy code message" = "复制二维码信息";
+"Share" = "分享";
+"Open in safari" = "浏览器打开";
+"Save" = "保存";
+"Cancel" = "取消";
+"Copy to clipboard success." = "复制成功！";
+"Choose photo" = "请选择图片";
+"Take a photo" = "拍照";
+"Choose from library" = "从相册选取";
+"Copy to clipboard" = "复制到剪切板";
+"Search" = "搜索";
+"Edit or Generate" = "编辑/重新生成二维码";
+"Save history" = "保存到本地记录";
+"length:" = "长度:";
+"Action" = "动作";
+"Scan_tips" = "用摄像头对准二维码来获得信息";
+"Search_url" = "https://http://www.baidu.com/s?wd=";
+
+//Generate
+"Generate" = "生成";
+"Done" = "完成";
+"Please input" = "请输入内容";
+"Type here to generate!" = "在此输入内容...";
+"QRCode Result" = "二维码";
+"Save to library success" = "保存成功";
+"Clear" = "清除";
+"I Know" = "确认";
+"Similar failures" = "过于类似的颜色或过多的文字会导致二维码难以识别！";
+
+//History
+"History" = "历史";
+"dataformatestring" = "HH:mm:ss \n yyyy/MMM/dd";
+
+
+//General
+"Yes" = "好的";
+"Ok" = "好的";
+"Tips" = "温馨提示";
+

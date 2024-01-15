@@ -1,0 +1,90 @@
+/* 
+  Localizable.strings
+  QRCode
+
+  Created by Lee on 2016/11/5.
+  Copyright © 2016年 dotc. All rights reserved.
+*/
+
+//Onboarding
+"Welcome To:" = "歡迎來到：";
+"QRCode Fun App" = "多彩二維碼";
+"Frist Of All:" = "首先：";
+"Find a QRCode image you want to know then use the camera scanner." = "用掃描儀對準你想瞭解的二維碼。";
+"Then You Can:" = "然後你可以";
+"Edit,Open,Copy text or Generate a brand-new coloful code!" = "編輯、打開、複製或者重新生成一個全新的漂亮的二維碼！";
+
+
+"Setting" = "設置";
+"General" = "通用";
+"More" = "更多";
+"About" = "關於";
+"BrowserInApp" = "內置瀏覽器打開";
+"CheakSafe" = "檢測鏈接安全 (下個版本)";
+"ClearHistory" = "清除歷史記錄";
+"ContactUs" = "聯繫我們";
+"RateUs" = "幫我們投票";
+"Version" = "版本";
+"OpenSource" = "開源庫";
+"Back" = "返回";
+"Sure" = "確認";
+"Could Not Send Email" = "不支持郵件發送！";
+"Your device could not send e-mail.  Please check e-mail configuration and try again." = "哎呀，你的設備還沒有配置郵箱，請確認郵箱配置后重試.";
+"Are you sure?" = "你確認嗎?";
+"Will clear all your local history." = "刪除所有歷史記錄.";
+"Feedback" = "產品反饋";
+"Skip" = "跳過";
+
+//Setting more
+"💡Thanks To💡" = "💡感謝以下💡";
+"Something wrong" = "出錯啦，請重試";
+"Clear History Success" = "成功清除歷史記錄";
+
+//Scan
+
+"Scan" = "掃描";
+"Camera unavailable" = "攝像頭不可用";
+"Code infomation" = "二維碼信息";
+"Unrecognized" = "識別二維碼信息失敗";
+"The flash is not available" = "閃光燈無法使用";
+"Code message" = "二維碼信息";
+"Copy code message" = "複製二維碼信息";
+"Share" = "分享";
+"Open in safari" = "瀏覽器打開";
+"Save" = "保存";
+"Cancel" = "取消";
+"Copy to clipboard success." = "複製成功！";
+"Choose photo" = "請選擇圖片";
+"Take a photo" = "拍照";
+"Choose from library" = "從相冊選取";
+"Copy to clipboard" = "複製到剪切板";
+"Search" = "搜索";
+"Edit or Generate" = "編輯/重新生成二維碼";
+"Save history" = "保存到歷史記錄";
+"length:" = "長度:";
+"Action" = "動作";
+"Scan_tips" = "用攝像頭對準二維碼來獲得資訊";
+"Search_url" = "https://www.google.com/search?q=";
+
+
+//Generate
+"Generate" = "生成";
+"Done" = "完成";
+"Please input" = "請輸入內容";
+"Type here to generate!" = "在此輸入內容...";
+"QRCode Result" = "二維碼";
+"Save to library success" = "保存成功";
+"Clear" = "清除";
+"I Know" = "確認";
+"Similar failures" = "過於類似的顏色或過多的文字會導致二維碼難以識別！";
+
+//History
+"History" = "歷史";
+"dataformatestring" = "HH:mm:ss \n yyyy/MMM/dd";
+
+
+//General
+"Yes" = "好的";
+"Ok" = "好的";
+"Tips" = "溫馨提示";
+

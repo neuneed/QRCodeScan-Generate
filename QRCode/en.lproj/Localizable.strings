@@ -1,0 +1,94 @@
+/* 
+  Localizable.strings
+  QRCode
+
+  Created by Lee on 2016/11/5.
+  Copyright © 2016年 neuneed. All rights reserved.
+*/
+
+//Onboarding
+"Welcome To:" = "Welcome To:";
+"QRCode Fun App" = "QRCode Fun App";
+"Frist Of All:" = "Frist Of All:";
+"Find a QRCode image you want to know then use the camera scanner." = "Find a QRCode image you want to know then use the camera scanner.";
+"Then You Can:" = "Then You Can:";
+"Edit,Open,Copy text or Generate a brand-new coloful code!"="Edit,Open,Copy text or Generate a brand-new coloful code!";
+
+
+
+//Setting
+
+"Setting" = "Setting";
+"General" = "General";
+"More" = "More";
+"About" = "About";
+"BrowserInApp" = "Browser In App";
+"CheakSafe" = "Cheak URL Safe (Next Version)";
+"ChoiceColor" = "Choice Your Own Color(Next Version)";
+"ClearHistory" = "Clear All History";
+"ContactUs" = "Contact Us";
+"RateUs" = "Rate Us On AppStore";
+"Version" = "Version";
+"OpenSource" = "Open Source Library";
+"Back" = "Back";
+"Sure" = "Sure";
+"Could Not Send Email" = "Could Not Send Email";
+"Your device could not send e-mail.  Please check e-mail configuration and try again." = "Your device could not send e-mail.  Please check e-mail configuration and try again.";
+"Are you sure?" = "Are you sure?";
+"Will clear all your local history." = "Will clear all your local history.";
+"Feedback" = "Feedback";
+"Skip" = "Skip";
+
+
+//Setting more
+"💡Thanks To💡" = "💡Thanks To💡";
+"Something wrong" = "Something wrong.Try again plz";
+"Clear History Success"  = "Clear History Success!";
+
+
+//Scan
+"Scan" = "Scan";
+"Camera unavailable" = "Camera unavailable";
+"Code infomation" = "Code infomation";
+"Unrecognized" = "Unrecognized";
+"The flash is not available" = "The flash is not available";
+"Code message" = "Code message";
+"Copy code message" = "Copy code message";
+"Share" = "Share";
+"Open in safari" = "Open in safari";
+"Save" = "Save";
+"Cancel" = "Cancel";
+"Copy to clipboard success." = "Copy to clipboard success.";
+"Choose photo" = "Choose photo";
+"Take a photo" = "Take a photo";
+"Choose from library" = "Choose from library";
+"Copy to clipboard" = "Copy to clipboard";
+"Search" = "Search";
+"Edit or Generate" = "Edit code / Generate a new one";
+"Save history" = "Save to app history";
+"length:" = "length:";
+"Action" = "Action";
+"Scan_tips" = "Use your camera pointed at a QRCode for scan";
+"Search_url" = "https://www.google.com/search?q=";
+
+//Generate
+"Generate" = "Generate";
+"Done" = "Done";
+"Please input" = "Please input content.";
+"Type here to generate!" = "Type here to generate!";
+"QRCode Result" = "QRCode Result";
+"Save to library success" = "Save to library success";
+"Clear" = "Clear";
+"I Know" = "I Know";
+"Similar failures" = "Similar colors or to much text will cause recognition hard!";
+
+//History
+"History" = "History";
+"dataformatestring" = "HH:mm:ss \n dd-MMM-yyyy";
+
+
+//General
+"Yes" = "Ok";
+"Ok" = "Ok";
+"Tips" = "Tips";
+

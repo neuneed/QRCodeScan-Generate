@@ -1,0 +1,56 @@
+PODS:
+  - Bugly (2.4.2)
+  - Firebase/AdMob (4.0.2):
+    - Firebase/Core
+    - Google-Mobile-Ads-SDK (= 7.20.0)
+  - Firebase/Core (4.0.2):
+    - FirebaseAnalytics (= 4.0.1)
+    - FirebaseCore (= 4.0.2)
+  - FirebaseAnalytics (4.0.1):
+    - FirebaseCore (~> 4.0)
+    - FirebaseInstanceID (~> 2.0)
+    - GoogleToolboxForMac/NSData+zlib (~> 2.1)
+  - FirebaseCore (4.0.2):
+    - GoogleToolboxForMac/NSData+zlib (~> 2.1)
+  - FirebaseInstanceID (2.0.0):
+    - FirebaseCore (~> 4.0)
+  - Google-Mobile-Ads-SDK (7.20.0)
+  - GoogleToolboxForMac/Defines (2.1.1)
+  - GoogleToolboxForMac/NSData+zlib (2.1.1):
+    - GoogleToolboxForMac/Defines (= 2.1.1)
+  - JSQWebViewController (5.0.0)
+  - Onboard (2.3.1)
+  - PKHUD (4.0.0)
+  - SnapKit (3.0.0)
+  - SVProgressHUD (2.0.3)
+  - SwiftyUserDefaults (3.0.0)
+
+DEPENDENCIES:
+  - Bugly
+  - Firebase/AdMob
+  - Firebase/Core
+  - JSQWebViewController
+  - Onboard
+  - PKHUD (~> 4.0)
+  - SnapKit (~> 3.0.0)
+  - SVProgressHUD
+  - SwiftyUserDefaults
+
+SPEC CHECKSUMS:
+  Bugly: b09cd3c7e54048a0e079be88a7a99610f14eab8f
+  Firebase: c7ad0731eab26d18a3fc547dd048b0f7cd9c63ae
+  FirebaseAnalytics: 4d7040fefc3cd8b291cde35f12cf063d7963f15d
+  FirebaseCore: 1a8bf6c795ad07d2918278657954ffd2552e9c17
+  FirebaseInstanceID: 9fbf536668f4d3f0880e7438456dabd1376e294b
+  Google-Mobile-Ads-SDK: 168312cdc167fa22746d4ea8e839fc4825dd2966
+  GoogleToolboxForMac: 8e329f1b599f2512c6b10676d45736bcc2cbbeb0
+  JSQWebViewController: 0461aa42612b221571556df61d9c09f080cb2eef
+  Onboard: b6871f25ac753175b2ab9a362fb2feb26a81a311
+  PKHUD: 2bb45c936bb8afa39f3cd33ec14e8cc89f624255
+  SnapKit: 98af0a4e9369d3c58f758967518081dbdc7eb1d9
+  SVProgressHUD: b0830714205bea1317ea1a2ebc71e5633af334d4
+  SwiftyUserDefaults: 0f1d45fc3aafb9064dac661e367f8f83fe21a4b4
+
+PODFILE CHECKSUM: f7fc3483c13ce0b879a134b018091aff5d95fe01
+
+COCOAPODS: 1.3.1

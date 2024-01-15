@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  QRCode
+
+  Created by Lee on 2016/11/5.
+  Copyright © 2016年 dotc. All rights reserved.
+*/
+
+CFBundleDisplayName = "QRCode Fun";
+
